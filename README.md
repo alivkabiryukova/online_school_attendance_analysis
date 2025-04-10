@@ -26,7 +26,7 @@
 🔹 Даны рекомендации
 
 ## Как запустить проект
-git clone https://github.com/ohalivka/data-analytics-project-100.git
+git clone https://github.com/ohalivka/online_school_attendance_analysis.git
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ohalivka/data-analytics-project-100/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ohalivka/data-analytics-project-100/actions)
